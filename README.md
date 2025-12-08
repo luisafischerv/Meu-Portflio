@@ -10,7 +10,7 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar um pouco de mim m
 
 ## ⚙️ Funcionalidades
 - Menu de navegação responsivo;
-- Múltiplas páginas (Home, About, Projects, Contact);
+- Múltiplas páginas (Home, Certificates, Projects, Contact);
 - Layout responsivo para diferentes tamanhos de tela;
 - Links para redes sociais.
 
