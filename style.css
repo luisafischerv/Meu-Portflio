@@ -154,10 +154,10 @@ li a:hover::before{
 	margin-bottom: 3rem;
 	font-size: 2.5rem;
 }
-.about {
+.certificates {
 	padding-top: 110px;
 }
-.about-grid{
+.certificates-grid{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
@@ -165,7 +165,7 @@ li a:hover::before{
     margin: 0 auto;
     padding: 2rem;
 }
-.about-card{
+.certificates-card{
     padding: 3rem 2rem;
     display: flex;
     flex-direction: column;
@@ -179,12 +179,12 @@ li a:hover::before{
     transition: 0.3s ease-in-out;
     background-color: white;
 }
-.about-card:hover{
+.certificates-card:hover{
     transform: translateY(-10px) scale(1.02);
     background-color: black;
     color: white;
 }
-.about-card img{
+.certificates-card img{
     width: 80%;
     max-width: 220px;
     border-radius: 1rem;
@@ -279,7 +279,7 @@ li a:hover::before{
     .home .home-container{
         gap: 3rem;
     }
-    .about-info, .projects-info{
+    .certificates-info, .projects-info{
         flex-direction: column;
     }
     .input-box input{
