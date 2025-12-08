@@ -1,6 +1,6 @@
 # 👩‍💻 Meu Portfólio
 
-Bem vindo ao meu portfólio pessoal! Ele foi desenvolvido para apresentar um pouco de mim mesma, dos meus projetos mais recentes e dos meios para me contatar.
+Bem-vindo ao meu portfólio pessoal! Ele foi desenvolvido para apresentar um pouco de mim mesma, dos meus projetos mais recentes e dos meios para me contatar.
 
 ## 💻 Tecnologias Utilizadas
 - HTML5;
