@@ -1,23 +1,23 @@
-# 👩‍💻 Meu Portfólio
+# 👩‍💻 My Portfolio
 
-Bem-vindo ao meu portfólio pessoal! Ele foi desenvolvido para apresentar um pouco de mim mesma, dos meus projetos mais recentes e dos meios para me contatar.
+Welcome to my personal portfolio! It was developed to present a little about myself, showcase my most recent projects, and provide ways to get in touch with me.
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
 - HTML5;
 - CSS3;
 - JavaScript;
 - Font Awesome.
 
-## ⚙️ Funcionalidades
-- Menu de navegação responsivo;
-- Múltiplas páginas (Home, Certificates, Projects, Contact);
-- Layout responsivo para diferentes tamanhos de tela;
-- Links para redes sociais.
+## ⚙️ Features
+- Responsive navigation menu;
+- Multiple pages (Home, Certificates, Projects, Contact);
+- Responsive layout for different screen sizes;
+- Social media links.
 
-## 📱 Responsividade
-O site foi desenvolvido com preocpação em responsividade, utilizando Flexbox, Grid e media queries para adaptação em celulares, tablets e desktops.
+## 📱 Responsiveness
+The website was developed with a strong focus in responsiveness, using Flexbox, Grid and media queries to ensure proper adaptation across mobile, tablets, and desktops.
 
-## ▶️ Como Executar o Projeto
-1. Faça o clone do repositório:
-```bash
-git clone https://github.com/luisafischerv/Meu-Portfolio.git
+## ▶️ How to Run the Project
+1. Access the Website:
+This project is deployed and publicly available at the following link:
+👉 [https://luisafischerv.github.io/Meu-Portflio/]
