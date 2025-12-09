@@ -146,10 +146,11 @@ li a:hover::before{
     color: black !important;
     text-decoration: none;
     transition: 0.3s;
+    size: 2rem;
 }
 
 .socials a:hover {
-    background: linear-gradient(to right, rgb(255, 0, 255), rgb(255, 102, 0));
+    color: linear-gradient(to right, rgb(255, 0, 255), rgb(255, 102, 0));
 }
 
 .section-title {
