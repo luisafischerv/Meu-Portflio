@@ -149,10 +149,6 @@ li a:hover::before{
     size: 2rem;
 }
 
-.socials a:hover {
-    color: rgb(255, 0, 255);
-}
-
 .section-title {
 	text-align: center;
 	margin-top: 3rem;
