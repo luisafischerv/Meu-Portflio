@@ -143,7 +143,7 @@ li a:hover::before{
     gap: 2rem;
 }
 .socials a {
-    color: black;
+    color: black !important;
     text-decoration: none;
     transition: 0.3s;
 }
